@@ -95,6 +95,33 @@ COMPLETE workflow guide:
 - Complete Git cheat sheet
 - Practice exercises
 
+### **[DevTools Tutorial](./resources/devtools-tutorial.md)** 🔍
+COMPLETE debugging guide:
+- What DevTools are (X-ray vision for websites)
+- Elements tab: HTML/CSS inspection and live editing
+- Console tab: JavaScript debugging with console.log
+- Sources tab: Breakpoint debugging, stepping through code
+- Network tab: Monitoring API calls and requests
+- React DevTools: Component and state inspection
+- Common debugging workflows (CSS not working, JS errors, API failures, React issues)
+- Hands-on exercises with working code
+- Pro tips and keyboard shortcuts
+- Mobile device simulation
+
+### **[Beginner Project Walkthrough](./resources/beginner-project-walkthrough.md)** 🎨
+COMPLETE step-by-step first project:
+- Build a personal portfolio website from scratch
+- Step 1: HTML structure (semantic markup, all sections)
+- Step 2: CSS styling (colors, fonts, layouts)
+- Step 3: Responsive design (mobile-first, media queries)
+- Step 4: JavaScript interactivity (smooth scrolling, form validation, animations)
+- Step 5: Debugging common issues with DevTools
+- Step 6: Customization ideas (make it yours)
+- Step 7: Deployment (GitHub Pages and Netlify)
+- Full working code for every step
+- Complete project checklist
+- Challenge tasks to level up
+
 ---
 
 ## 📚 COURSE MODULES (Structure & Overview)
